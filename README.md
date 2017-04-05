@@ -1,6 +1,8 @@
-# Site of Real Estate Agency
+# Сайт агентсва недвижимости  
 
-[TODO. There will be project description]
+Досупен на [GitHubPages](https://askanio234.github.io/21_valid_markup/)
+
+## валидная верстка в соответсвии с [W3C Markup Validation Service](https://validator.w3.org/)
 
 # Project Goals
 
